@@ -15,6 +15,7 @@ Monitor and Analysis your Home Temperature using Arduino ESP8266 and https://thi
 
 1. You need WeMOS D1 arduino board with ESP8166 embedded 
 2. DHT11 Temperature Sensor
+3. 10K Resistor
 
 # Connection Diagram
 
