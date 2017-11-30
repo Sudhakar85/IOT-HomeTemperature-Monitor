@@ -7,7 +7,7 @@ Monitor and Analysis your Home Temperature using Arduino ESP8266 and https://thi
 1. Create account in https://thingspeak.com
 2. create new Channel and do the settings as below
 
-[[https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/ChannelSettings.jpg|alt=settings]]
+![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/ChannelSettings.jpg)
 
 3. Get the API key and replace it in the my code
 
