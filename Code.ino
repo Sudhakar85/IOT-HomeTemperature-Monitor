@@ -64,8 +64,8 @@ void loop() {
         client.println("<body style='min-height: 100%;width:100%;'>");
         client.println("<h2>Sudhakar Home</h2>");  
         client.println("<h3>Current Room Temperacture : " + String(temp) +" F,  Humidity : " + String(h) +"</h3>");
-        client.println("<iframe width='450' height='260' style='border: 1px solid #cccccc;' src='https://thingspeak.com/channels/278373/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15'></iframe>");        
-        client.println("<iframe width='450' height='260' style='border: 1px solid #cccccc;' src='https://thingspeak.com/channels/278373/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15'></iframe>");
+        client.println("<iframe width='450' height='260' style='border: 1px solid #cccccc;' src='https://thingspeak.com/channels/278373/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&days=15'></iframe>");        
+        client.println("<iframe width='450' height='260' style='border: 1px solid #cccccc;' src='https://thingspeak.com/channels/278373/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&days=15'></iframe>");
         client.println("</body></html>");
         Serial.println("client disconnected");
         client.stop();
