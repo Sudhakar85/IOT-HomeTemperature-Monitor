@@ -18,14 +18,14 @@ Monitor and Analysis your Home Temperature using Arduino ESP8266 and https://thi
 
 # Connection Diagram
 
-[https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnections.jpg|thinkspeak]]
+![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnections.jpg)
 
-[https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnection.jpg|thinkspeak]]
+![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnection.jpg)
 
 # ThinkSpeak Report
 
-[https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/ThinkSpeak.jpg|thinkspeak]]
+![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/ThinkSpeak.jpg)
 
 # Output Website from WebMOS D1
 
-[[https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/MyHome.jpg|output]]
+![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/MyHome.jpg)
