@@ -20,7 +20,7 @@ Monitor and Analysis your Home Temperature using Arduino ESP8266 and https://thi
 
 ![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnections.jpg)
 
-![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnection.jpg)
+![ScreenShot](https://github.com/Sudhakar85/IOT-HomeTemperature-Monitor/blob/master/images/myConnection.JPG)
 
 # ThinkSpeak Report
 
